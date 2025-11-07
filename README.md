@@ -87,7 +87,4 @@ pip install midi2audio
 
 ## 📜 License
 
-This project is licensed under the **MIT License** – feel free to use, modify, and share it.
-See the [LICENSE](LICENSE.md) file for details.
----
-
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
